@@ -1,3 +1,8 @@
+# Student Management System (SMS)
+# A Python-based CRUD application for managing student records.
+# Features: Add, Search, Update, View, and Delete student information.
+
+
 name = input(("Enter your name: "))
 print(f"Hello {name}. Welcome to our Student Management System.\n Follow the instructions.")
 students = []
